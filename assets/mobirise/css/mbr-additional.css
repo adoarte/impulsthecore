@@ -1176,70 +1176,6 @@ a {
 .cid-ugzxk7k3xZ .mbr-media {
   color: #ffffff;
 }
-.cid-taQPj7MJc2 {
-  padding-top: 9rem;
-  padding-bottom: 9rem;
-  background-color: #000000;
-}
-.cid-taQPj7MJc2 .mbr-media {
-  position: relative;
-}
-.cid-taQPj7MJc2 .mbr-media img {
-  width: 100%;
-  object-fit: cover;
-}
-.cid-taQPj7MJc2 .icon-wrap {
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  position: absolute;
-}
-.cid-taQPj7MJc2 .mbr-media span {
-  font-size: 4rem;
-  transition: all 0.2s;
-}
-.cid-taQPj7MJc2 .modalWindow {
-  position: fixed;
-  z-index: 5000;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
-  width: 100%;
-  height: 100%;
-}
-.cid-taQPj7MJc2 .modalWindow .modalWindow-container {
-  display: table-cell;
-  vertical-align: middle;
-}
-.cid-taQPj7MJc2 .modalWindow .modalWindow-video {
-  height: calc(44.9943757vw);
-  width: 80vw;
-  margin: 0 auto;
-}
-.cid-taQPj7MJc2 .close {
-  position: fixed;
-  opacity: 0.5;
-  font-size: 22px;
-  font-weight: 300;
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  color: #fff;
-  top: 2.5rem;
-  right: 2.5rem;
-  border: 2px solid #fff;
-  text-shadow: none;
-  z-index: 5;
-  transition: opacity 0.3s ease;
-  align-items: center;
-  justify-content: center;
-  display: flex;
-}
-.cid-taQPj7MJc2 .close:hover {
-  opacity: 1;
-  background: #000;
-  color: #fff;
-}
 .cid-ugzxltgt9R {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -2372,11 +2308,6 @@ a {
 .cid-taWYnejree .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
-@media (min-width: 992px) {
-  .cid-taWYnejree .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
-  }
-}
 .cid-taWYnejree .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -2952,11 +2883,6 @@ a {
 .cid-ugyyHtDZGY .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
-@media (min-width: 992px) {
-  .cid-ugyyHtDZGY .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
-  }
-}
 .cid-ugyyHtDZGY .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -3417,11 +3343,6 @@ a {
 .cid-ugz4FbkXhC .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
-@media (min-width: 992px) {
-  .cid-ugz4FbkXhC .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
-  }
-}
 .cid-ugz4FbkXhC .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -3711,18 +3632,50 @@ a {
 .cid-ugz5KxKfVg .mbr-media {
   color: #ffffff;
 }
-.cid-ugz5KG3Hxa {
+.cid-ugA5doiVa1 {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #000000;
 }
-.cid-ugz5KG3Hxa .mbr-text {
-  color: #c1c1c1;
+.cid-ugA5doiVa1 .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-ugz5KG3Hxa .mbr-text,
-.cid-ugz5KG3Hxa .mbr-section-btn {
-  text-align: left;
-  color: #fafafa;
+.cid-ugA5doiVa1 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ugA5doiVa1 .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #ff9966;
+  margin-left: 1rem;
+}
+.cid-ugA5doiVa1 .panel-group {
+  border: none;
+}
+.cid-ugA5doiVa1 .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-ugA5doiVa1 .panel-body,
+.cid-ugA5doiVa1 .card-header {
+  padding: 1rem 0;
+}
+.cid-ugA5doiVa1 .panel-title-edit {
+  color: #ffffff;
+}
+.cid-ugA5doiVa1 .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-ugA5doiVa1 .panel-text {
+  color: #ffffff;
 }
 .cid-ugz5KGum4O {
   padding-top: 6rem;
@@ -3957,11 +3910,6 @@ a {
 }
 .cid-ugz5KJIQlE .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-ugz5KJIQlE .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
-  }
 }
 .cid-ugz5KJIQlE .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
